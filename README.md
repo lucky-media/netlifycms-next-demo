@@ -1,3 +1,9 @@
+This is a demo project showing how to use Netlify CMS with page building capabilities. Please improve it before considering it for production.
+
+This repo is only for demo so it wont be maintained.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
